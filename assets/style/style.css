@@ -20,6 +20,9 @@
 	font-weight: 400;
 	font-style: normal;
 }
+body{
+	scroll-behavior: smooth;
+}
 textarea{
 	resize: none;
 	border-radius: 10px;
